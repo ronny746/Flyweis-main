@@ -192,7 +192,7 @@ class LoginwithPassword extends StatelessWidget {
                           ),
                           InkWell(
                               onTap: () {
-                                controller.facebookLoging();
+                                controller.signInWithFacebook(context);
                               },
                               child: const Icon(
                                 Icons.facebook,

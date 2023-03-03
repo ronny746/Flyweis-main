@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">my_bus_user_panel</string>
+    <string name="facebook_app_id">920261865780907</string>
+    <string name="fb_login_protocol_scheme">fb920261865780907</string>
+    <string name="facebook_client_token">3819a146abee902e8921cd494a256e64</string>
+</resources>
